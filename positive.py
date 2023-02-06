@@ -1,4 +1,4 @@
-number = 10
+number = -15
 
 # check if number is greater than 0
 if number > 0:
