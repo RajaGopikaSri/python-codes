@@ -4,7 +4,7 @@ public class positive
 public static void main(String[] args)   
 {  
 //number to be check  
-int num=912;  
+int num=26;  
 //checks the number is greater than 0 or not  
 if(num>0)  
 {  
