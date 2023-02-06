@@ -4,14 +4,14 @@ public class positive
 public static void main(String[] args)   
 {  
 //number to be check  
-int num=26;  
+int n=26;  
 //checks the number is greater than 0 or not  
-if(num>0)  
+if(n>0)  
 {  
 System.out.println("The number is positive.");  
 }  
 //checks the number is less than 0 or not  
-else if(num<0)  
+else if(n<0)  
 {  
 System.out.println("The number is negative.");  
 }  
